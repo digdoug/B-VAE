@@ -1,0 +1,1 @@
+I spent most of the day working on the data-processing script. I realize that's less than ideal. But it's working. There's still a few commits i'll be making to it within the next couple of days, a little work done on the model. I need to get the visualization done in python, I'm not sure if visdom allows for the same browser connection if you're working in a cluster. 
