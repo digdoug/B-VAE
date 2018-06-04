@@ -1,0 +1,6 @@
+First in-person meeting with Mike and Leo. Given overview of project, and talked about my MIA during a couple days around July 14th for my wife's delivery. 
+We talked about the 3 deliverables: 
+1. Some VAE that works well with our data format (implemented in pyTorch or Chainer)
+2. Adding the stimuli as a feature before the latent space, but after the encoder as an affine layer injection
+3. N frame (for now 8) channel images, which can perhaps capture time-sensitive data in a more robust fashion than the 3 channel diff-maps
+

@@ -1,0 +1,3 @@
+Cloned a disentangled VAE implementation from pyTorch in Github. It didn't work out of the box, so there were a few things I had to do there. Downloaded the entire chairs dataset (used in the deepMind paper) which was probably a mistake, just to see if I can replicate the results.
+
+Spent most of the day getting set up on the server and getting access to data from Leo. Also, knowning how to run processes on the gpus 1 and 2. 
