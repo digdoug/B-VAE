@@ -1,3 +1,0 @@
-Today, I got the disentangled VAE working on the 3d chairs dataset working, just as a proof of concept. I'm still trying to make sense of the checkpoints. I haven't worked with pyTorch in the past, so I want to actually make plots of the loss curves. Qutie a bit of dependencies there, will be listed in the config. 
-
-About half way through the script for processing the 8 frame images. I'll get that done tomorrow, and shoot for Monday on running the first experiment just on the 8 frame images. 
