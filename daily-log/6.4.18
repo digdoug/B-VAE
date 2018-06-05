@@ -1,0 +1,6 @@
+I got the model up and training on some sample data, and reconstruction loss curves as well as kl-divergence plots up. A few tweaks were made in the image processing script. Met with Mike and Leo, we talked about doing some extensive analysis on 8 frame channels and comparing those with diff_map configurations, then also inserting a one_hot_encoded version of the stimulus in the first afffine layer. 
+
+One last thing to be dealt with is loading the data onto memory will likely get pretty time intensive. So we can load it into a SQL or noSQL database, in queriable format. Leo also suggests https://pytorch.org/tutorials/beginner/data_loading_tutorial.html 
+
+
+
