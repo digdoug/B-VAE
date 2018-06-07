@@ -1,0 +1,2 @@
+Got our data in .npz format, and put data in tensors to feed into the model. A few bugs to fix there
+
