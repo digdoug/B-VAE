@@ -1,0 +1,3 @@
+Got a small 1000 image sample size running through the model. As of now, I'm treating the images as an 8 channel 2d image and doing 2d convolutions on that. My reconstruction loss is looking a little iffy, so I'll need to play around with my architecture. And a weird thing I'm running into is that the model by default only takes in images of 64X64 width and height. I did try upsampling after my last decode layer but I'm still ending up with really weird dimensions. So I'm going to have to figure that out and make sure that it works well. 
+
+Todo on Monday: get this in 3d convolution mode. And make sure the encode/decode layers are intuitive and take in our data properly. 
