@@ -1,0 +1,1 @@
+Got the model runnnig our data finally. I'm now in the process of running different on the 100K dataset, using different Beta and latent-space size values. I'm currently under the impression that it's not learning well. This could be the data format (which I'm reading in greyscale) or it could be the some error in the model.
