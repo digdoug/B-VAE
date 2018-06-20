@@ -1,0 +1,1 @@
+I was trying to get a large dataset up and ready to train, and also my model evaluation right. When I go to encode however on a holdout sample it's returning a weird dimension "latent" value which doesn't correspond to something I can feed into the decoder. I've spent a little time on this today. The dataset wasn't prepared because it looks like the server crashed.
